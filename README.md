@@ -79,7 +79,7 @@ Alan Moore was born in Manchester, England, to parents George Arthur Moore and E
 
 ## Fine-tuning pour OpenAI-GPT
 Il est possible de spécialiser un modèle générique pour qu'il produise des échantillons d'un style plus spécifique. Ainsi, en utilisant la commande suivante : 
-<pre><code>python ine_tuning_openai.py --do_train --output_dir train_clarke --train_dataset FineTuning-example.txt</pre></code>
+<pre><code>python fine_tuning_openai.py --do_train --output_dir train_clarke --train_dataset FineTuning-example.txt</pre></code>
 
 Le modèle généré sera capable de produire des extraits de texte ressemblant au premier tome de l'Odyssey de Clarke. Les marqueurs "\_end\_" indiquent des changements de paragraphe. 
 <pre><code>INPUT : Dr . Floyd was really angry because
