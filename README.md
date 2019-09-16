@@ -95,3 +95,6 @@ Concernant de la génération de texte en français, il n'existe pas ou peu de b
 Cette publication a été réalisée dans le cadre du projet Interreg de coopération transfrontalière C2L3PLAY, cofinancé par L’Union Européenne. Avec le soutien du Fonds européen de développement régional / Met steun van het Europees Fonds voor Regionale Ontwikkeling
 
 <img src="https://crossborderlivinglabs.eu/wp-content/uploads/2018/02/LogoProjets_GoToS3_C2L3PLAY.png" width="200px"/>
+
+<a href="https://creativecommons.org/licenses/by/2.0/be/">CC BY 2.0 BE</a>
+
