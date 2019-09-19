@@ -1,3 +1,4 @@
+# Copyright UMONS – 2019
 import torch
 import argparse
 from pytorch_pretrained_bert import OpenAIGPTTokenizer, OpenAIGPTLMHeadModel
