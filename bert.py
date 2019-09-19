@@ -1,3 +1,7 @@
+# Adapted and packaged from http://mayhewsw.github.io/2019/01/16/can-bert-generate-text/ - Apache-2.0 License
+# Copyright Mayhew Stephen – 2019 
+# Copyright UMONS – 2019 
+
 import torch
 import argparse
 from pytorch_pretrained_bert import BertTokenizer, BertForMaskedLM
