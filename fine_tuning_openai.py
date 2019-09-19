@@ -1,4 +1,5 @@
 # coding=utf-8
+# Copyright UMONS – 2019
 # Copyright 2018 Google AI, Google Brain and Carnegie Mellon University Authors and the HuggingFace Inc. team.
 # Copyright (c) 2018, NVIDIA CORPORATION.  All rights reserved.
 #
@@ -13,6 +14,7 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
+
 """ OpenAI GPT model fine-tuning script.
     Adapted from https://github.com/huggingface/pytorch-pretrained-BERT/blob/master/examples/run_openai_gpt.py
     It self adapted from https://github.com/huggingface/pytorch-openai-transformer-lm/blob/master/train.py
