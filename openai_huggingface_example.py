@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Adapted from https://github.com/huggingface/pytorch-transformers/tree/master/examples#language-generation
+# Copyright UMONS - 2019
 
 import argparse
 import logging
