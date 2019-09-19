@@ -4,6 +4,7 @@ from pytorch_pretrained_bert import TransfoXLTokenizer, TransfoXLLMHeadModel
 import logging
 
 # Adapted from https://github.com/kimiyoung/transformer-xl/issues/49#issuecomment-472212730
+# Copyright UMONS - 2019
 
 logging.basicConfig(level=logging.INFO)
 
