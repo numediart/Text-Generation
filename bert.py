@@ -1,6 +1,10 @@
-# Adapted and packaged from http://mayhewsw.github.io/2019/01/16/can-bert-generate-text/ - Apache-2.0 License
+# Adapted and packaged from http://mayhewsw.github.io/2019/01/16/can-bert-generate-text/
 # Copyright Mayhew Stephen – 2019 
-# Copyright UMONS – 2019 
+# Copyright 2019 - UMONS
+# bert.py is licensed under the Apache License, Version 2.0 (the “License”); you may not use this file except in compliance with the License. 
+# You should have received a copy of the Apache License Version 2.0 along with this program.  If not, see http://www.apache.org/licenses/LICENSE-2.0. 
+# Unless required by applicable law or agreed to in writing, this program is distributed on an “AS IS” basis, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+
 
 import torch
 import argparse
